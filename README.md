@@ -12,9 +12,9 @@ Connect with me:<br>
 <br>
 <br>
 <br>
-<a>
+<!-- <a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique-Rossi&show_icons=true&theme=default) 
-</a>
+</a> -->
 <a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Rossi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </a>
