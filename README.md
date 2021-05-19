@@ -18,10 +18,11 @@ Trabalhei com as mais diversas tecnologias e eventos de Bootcamp/Hackathon/Marat
 • Desenvolvimento FullStack de ambientes de Web e Mobile.
 • Desenvolvimento de Jogos 2D, 3D, Design Gráfico, Game Design.
 Connect with me:
-
+<a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique-Rossi&show_icons=true&theme=radical) 
-
+</a>
+<a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Rossi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+</a>
 
 
