@@ -18,4 +18,5 @@ Trabalhei com as mais diversas tecnologias e eventos de Bootcamp/Hackathon/Marat
 • Desenvolvimento FullStack de ambientes de Web e Mobile.
 • Desenvolvimento de Jogos 2D, 3D, Design Gráfico, Game Design.
 Connect with me:
-<img src="https://img.shields.io/static/v1?label=Blog&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?henrique-rossi=anuraghazra&show_icons=true&theme=radical)
