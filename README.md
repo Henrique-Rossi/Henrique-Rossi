@@ -19,9 +19,9 @@ Trabalhei com as mais diversas tecnologias e eventos de Bootcamp/Hackathon/Marat
 • Desenvolvimento de Jogos 2D, 3D, Design Gráfico, Game Design.
 Connect with me:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique-Rossi&show_icons=true&theme=radical) <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique-Rossi&show_icons=true&theme=radical) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Rossi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Henrique-Rossi)](https://github.com/anuraghazra/github-readme-stats)
+
