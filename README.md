@@ -7,8 +7,10 @@ Graduado em Sistemas de Informação, apaixonado por tecnologias emergentes e cu
 • Desenvolvimento FullStack de ambientes de Web e Mobile.<br>
 • Desenvolvimento de Jogos 2D, 3D, Design Gráfico, Game Design.
 
-Connect with me:
+Connect with me:<br>
 <a class="btn-linkedin" href="https://www.linkedin.com/in/henrique-rossi-4171b11a2/">LinkedIn</a>
+<br>
+<br>
 <br>
 <a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique-Rossi&show_icons=true&theme=default) 
