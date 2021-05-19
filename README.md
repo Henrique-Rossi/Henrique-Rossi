@@ -1,7 +1,6 @@
 ## Hi I'm Henrique Rossi
 Graduado em Sistemas de Informação, apaixonado por tecnologias emergentes e culturas como DevOps e Frameworks de Metodologias Ágeis como Scrum e Kanban.
-
-Tenho experiência em Desenvolvimento de Software Mobile e Web estando sempre atento as necessidades de mercado entre IoT, Iaas, Paas, Saas.
+-Tenho experiência em Desenvolvimento de Software Mobile e Web estando sempre atento as necessidades de mercado entre IoT, Iaas, Paas, Saas.
 
 Trabalhei com as mais diversas tecnologias e eventos de Bootcamp/Hackathon/Maratona entre eles NASA, IBM e IGTI.
 
@@ -17,6 +16,7 @@ Trabalhei com as mais diversas tecnologias e eventos de Bootcamp/Hackathon/Marat
 
 • Desenvolvimento FullStack de ambientes de Web e Mobile.
 • Desenvolvimento de Jogos 2D, 3D, Design Gráfico, Game Design.
+
 Connect with me:<br>
 <a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique-Rossi&show_icons=true&theme=default) 
