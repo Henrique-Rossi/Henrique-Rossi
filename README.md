@@ -18,4 +18,3 @@ Trabalhei com as mais diversas tecnologias e eventos de Bootcamp/Hackathon/Marat
 • Desenvolvimento FullStack de ambientes de Web e Mobile.
 • Desenvolvimento de Jogos 2D, 3D, Design Gráfico, Game Design.
 Connect with me:
-https://img.shields.io/static/v1?label=<oi>&message=<hhh>&color=<green>&style=<STYLE>&logo=<LOGO>
