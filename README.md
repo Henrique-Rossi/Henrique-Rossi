@@ -8,8 +8,7 @@ Graduado em Sistemas de Informação, apaixonado por tecnologias emergentes e cu
 • Desenvolvimento de Jogos 2D, 3D, Design Gráfico, Game Design.
 
 Connect with me:
-<a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=YOUR-URL&title=YOUR-TITLE&summary=YOUR-SUMMARY&source=YOUR-URL">Share on LinkedIn</a>
-<a class="btn-linkedin" href="#">LinkedIn</a>
+<a class="btn-linkedin" href="https://www.linkedin.com/in/henrique-rossi-4171b11a2/">LinkedIn</a>
 <br>
 <a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique-Rossi&show_icons=true&theme=default) 
