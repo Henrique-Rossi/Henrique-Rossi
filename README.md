@@ -1,5 +1,5 @@
 ## Hi I'm Henrique Rossi
-Graduado em Sistemas de Informação, apaixonado por tecnologias emergentes e culturas como DevOps e Frameworks de Metodologias Ágeis como Scrum e Kanban.
+Graduado em Sistemas de Informação, apaixonado por tecnologias emergentes e culturas como DevOps e Frameworks de Metodologias Ágeis como Scrum e Kanban.<br>
 -Tenho experiência em Desenvolvimento de Software Mobile e Web estando sempre atento as necessidades de mercado entre IoT, Iaas, Paas, Saas.
 
  Bootcamp/Hackathon/Maratona entre eles NASA, IBM e IGTI.
